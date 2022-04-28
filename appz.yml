@@ -17,4 +17,4 @@ deploy:
 properties:
     MONGODB_HOST: appz-mongo-4-4
     REDIS_HOST: appz-redis-6-2
-    revision : 20
+    revision : 21
